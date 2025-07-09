@@ -30,4 +30,3 @@ make prefix=/usr/local all
 ```bash
 make prefix=/usr/local install
 ```
-**thank you**
